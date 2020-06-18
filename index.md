@@ -12,3 +12,5 @@ Guybrush Ulysses Threepwood is a fictional character who serves as the main prot
 As Guybrush Threepwood said:
 
 > I'm a mighty pirate.
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Guybrush_Threepwood.png/240px-Guybrush_Threepwood.png"/>
