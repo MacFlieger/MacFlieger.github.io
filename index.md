@@ -8,3 +8,7 @@ Guybrush Ulysses Threepwood is a fictional character who serves as the main prot
 * excited
 * somewhat simple
 * mirroring the attitude of a child
+
+As Guybrush Threepwood said:
+
+> I'm a mighty pirate.
